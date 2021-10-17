@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+
+
+## I'm a Game Mathematician & Engineer
+
+
 
 <!--
 **brianchophi/brianchophi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://hackmd.io/@brianchophi/home
+[linkedin]: https://www.linkedin.com/in/brianchophi/
