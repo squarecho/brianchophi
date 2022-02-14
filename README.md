@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-## I'm a Game Mathematician & Engineer
+## I'm a Game Mathematician & Developer
 
 Website https://brianchophi.github.io/  
 Math Note https://hackmd.io/@brianchophi/home  
